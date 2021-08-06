@@ -1,3 +1,3 @@
 Interested in Python 🐍
 
-My trash website is http://potatowatch.github.io
+My trash website is https://potatowatch.github.io
